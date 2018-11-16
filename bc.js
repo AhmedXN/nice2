@@ -29,4 +29,4 @@ if (message.content.startsWith(prefix + 's')) {
 
 });
 
-hero.login(process.env.token)
+client.login(process.env.token)
