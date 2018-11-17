@@ -2,7 +2,7 @@
   "name": "Test",
   "description": "Test",
   "version": "0.0.0",
-  "main": "xd.js",
+  "main": "bc.js",
   "scripts": {
     "start": "node xd.js"
   },
