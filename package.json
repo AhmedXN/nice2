@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "main": "bc.js",
   "scripts": {
-    "start": "node xd.js"
+    "start": "node bc.js"
   },
   "dependencies": {
     "array-sort": "1.0.0",
